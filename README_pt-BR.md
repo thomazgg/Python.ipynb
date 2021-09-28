@@ -3,7 +3,9 @@ Advanced-Discord.js-v13-handler</h1><br/>
 
 _Also available in [English](README.MD)_
 
-## **Instalação | Como usar o bot**
+### **Instalação | Como usar o bot**
+
+[![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png)  ](#table-of-contents)
 
 **1.** **Instale** o [node.js v16](https://nodejs.org/en/) ou superior
 
@@ -15,6 +17,8 @@ _Also available in [English](README.MD)_
 
 **5.** **Comece** o bot com **`start.bat`**
 <br/>
+
+[![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png)  ](#table-of-contents)
 
 ### _Modificar - config.json_
 
