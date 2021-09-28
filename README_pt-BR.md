@@ -1,7 +1,7 @@
 <h1 align="center">
 Advanced-Discord.js-v13-handler</h1><br/>
 
-_Also available in [English](README.md)_
+_Also available in [English](README.MD)_
 
 ## **Instalação | Como usar o bot**
 
