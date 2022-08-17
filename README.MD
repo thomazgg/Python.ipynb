@@ -1,14 +1,4 @@
-<h1 align="center">Aprendizagem de Maquina</h1>
-
-### **📚 Descrição:**
-
-<p align="justify">📗 </p>
-
-<p align="justify">📕 </p>
-
-<p align="justify">📘 </p>
-
-[![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png) ](#table-of-contents)
+<h1 align="center">📚 Aprendizagem de Maquina 📚</h1>
 
 ### 📣 **Python, principais características:**
 
