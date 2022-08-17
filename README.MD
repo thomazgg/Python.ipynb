@@ -1,4 +1,5 @@
-<h1 align="center">📚 Aprendizagem de Maquina 📚</h1>
+
+<h1 align="right" style="text-size: 24px"> 📚 Aprendizagem de Maquina</h1>
 
 ### 📣 **Python, principais características:**
 
