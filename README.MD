@@ -1,6 +1,6 @@
 <h1 align="center">
 Aprendizagem de Maquina - Python</h1><br/>
 
-### **- Como usar?**
+### **_Como usar?_**
 
 **Para acessar use o** [Colab](https://colab.research.google.com/) 
