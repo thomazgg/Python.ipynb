@@ -1,12 +1,23 @@
 <h1 align="center">📚 Aprendizagem de Maquina 📚</h1>
 
-### **Python, principais características:**
+### **Descrição:**
 
-<p align="justify">📗 Linguagem de altíssimo nível</p>
+<p align="justify">📗 </p>
 
-<p align="justify">📕 Orientada a Objeto</p>
+<p align="justify">📕 </p>
 
-<p align="justify">📘 De tipagem dinâmica e forte</p>
+<p align="justify">📘 </p>
+
+[![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png) ](#table-of-contents)
+
+### 📣 **Python, principais características:**
+
+<p align="justify"> 
+✔️ Linguagem de altíssimo nível </br>
+✔️ Orientada a Objeto</br>
+✔️ De tipagem dinâmica e forte</br>
+✔️ Interpretada e interativa</br>
+</p>
 
 [![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png) ](#table-of-contents)
 
