@@ -15,4 +15,11 @@
 ```1.``` Para acessar use o [Colab](https://colab.research.google.com/) 
 > **Para mais dicas sobre o uso do Colab, leia [aqui](https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar)**
 
-```2.``` Ou então faça o Download e instalação do [Python](https://www.python.org) 
+```2.``` Ou então faça o Download e instalação do Python
+
+
+<a href="https://www.python.org">
+  <p align="center">
+    Arquivo de download do Python
+  </p>
+</a>
